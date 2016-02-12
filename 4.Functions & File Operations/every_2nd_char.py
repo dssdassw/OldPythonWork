@@ -1,0 +1,1 @@
+print raw_input("What's your name?")[::2]

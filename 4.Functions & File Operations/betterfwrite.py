@@ -1,0 +1,2 @@
+def reader(enc, fn):
+	

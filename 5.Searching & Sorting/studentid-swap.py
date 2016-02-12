@@ -1,0 +1,5 @@
+a = 'VERY IMPORTANT INFORMATION'
+b = 'OTHER VERY IMPORTANT INFORMAION'
+temp = a
+a = b
+b = temp

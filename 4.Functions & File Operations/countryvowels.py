@@ -1,0 +1,1 @@
+print 'There are',len([vowel for vowel in raw_input("...wait, give me the name of a country.\n ") if vowel in ['a', 'e', 'i', 'o', 'u', 'y']]),"vowels in that country's name, if y is counted as a vowel."
